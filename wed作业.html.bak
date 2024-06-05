@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <style>
+    body{
+	 width: 600px ;
+     height:800px ;
+	 text-align:center ;
+     margin: 0 auto;
+	 font-family: 黑体 ;
+    }
+	div#page{
+     background-color:rgb(180,0,0);
+     height: 100% ;
+	}
+	#header{
+	  height:10% ;
+	  margin: 0 ;
+	  color:orange;
+	  font-size: 40px ;
+	  letter-spacing:10px;
+	  text-shadow: black 3px 2px;
+	  padding-top:30px;
+	 }
+	 #nav{
+	  height:5% ;
+	  border:1px solid white;
+      margin: 0 ;
+	  padding-top:10px;
+
+	 }
+	 #main{
+	  margin: 0 ;
+height:80% ;
+background-image: 
+url("https://masterlijh.github.io/lesson/CS.jpg") ;
+	  background-size: cover ;
+	 }
+	 #footer{
+      margin: 0 ;
+	  border:1px solid white;
+	  height:5% ;
+background-color:rgb(0,0,0);
+	  padding-top:10px;
+	  color:white;
+	 }
+
+	 a{
+	  font-size:20px ;
+	  background-color:black;
+      color:white;	
+	  letter-spacing: 5px;
+	  padding:8px;
+	  margin-left:10px;
+	  text-decoration:none;
+	  border-radius:10px;
+	 }
+	 a:hover{
+	  color:black;	
+      background-color:white;
+	  font-weight: bolder;
+	 }     }
+div#main{
+	  position: relative ;
+	 }
+	 div#main p{
+	  position: absolute ;
+	  right: 10px;
+	  top:10 px ;
+	  border:2px solid black;
+	  width: 150px ;
+	  color: white ;
+	  background-color: red ;
+	 }
+     div#main p img{
+	  width:100% ;
+	 }
+
+  </style>
+   
+ </head>
+<body>
+  <div id="page">
+   <div id="header">
+2023计算机科学与技术
+   </div> 
+   <div id="nav" >
+    <a herf ="https://3249795939.github.io" > 1 </a> 
+    <a herf ="#" > 2 </a>
+    <a herf ="#" > 3 </a>
+    <a herf ="#" > 4 </a>
+    <a herf ="#" > 5 </a>
+    <a herf ="#" > 6 </a>
+          </div> 
+          <div id="main" >
+           <p>
+            <img src=" ">
+            我的姓名
+           </p > 
+         </div> 
+         <div id="footer">
+          江西科技师范大学元宇宙产业学院版权所有2024--2025
+         </div> 
+        </div>
+       </body>
+       </html>
+          
